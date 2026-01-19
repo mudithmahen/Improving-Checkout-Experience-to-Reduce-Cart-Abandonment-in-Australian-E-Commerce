@@ -6,7 +6,7 @@ Data Analytics Specialisation
 
 
 ## Project Plan
-📌 7-week execution plan: [data/notebooks/results/docs/7-week-execution-plan.md)
+📌 7-week execution plan: [Click Here](data/notebooks/results/docs/7-week-execution-plan.md)
 
 
 ## ✅ 7-Week Checklist
