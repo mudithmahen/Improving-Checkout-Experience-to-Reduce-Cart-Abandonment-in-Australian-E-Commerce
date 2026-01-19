@@ -5,6 +5,10 @@ Data Analytics Specialisation
 # Improving-Checkout-Experience-to-Reduce-Cart-Abandonment-in-Australian-E-Commerce
 
 
+## Project Plan
+📌 Full 7-week execution plan: [7-week-execution-plan](docs/7-week-execution-plan.md)
+
+
 ## ✅ 7-Week Checklist
 
 ### Week 1 – Setup & Scope
